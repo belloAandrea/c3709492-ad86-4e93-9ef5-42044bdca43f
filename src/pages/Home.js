@@ -1,0 +1,1 @@
+import React from 'react';\n\nexport default function Home() {\n  return (<div>\n    Welcome to the Home Page\n  </div>)\n}

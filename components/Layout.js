@@ -1,0 +1,1 @@
+The layout could be improved by using a grid system that would improve alignment and consistency throughout the site. You may use CSS Grid or Flexbox for this purpose. It will make it easier for users to follow a visual structure giving a sense of familiarity and predictability.

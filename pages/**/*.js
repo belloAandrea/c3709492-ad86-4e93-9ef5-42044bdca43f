@@ -1,0 +1,1 @@
+Ensure your app maintains its looks and functionality across devices of different screen sizes, from mobiles to desktops. Use relative units over absolute units, and implement breakpoints at common viewport sizes to adjust layouts.

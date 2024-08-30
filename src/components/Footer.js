@@ -1,0 +1,1 @@
+import React from 'react';\n\nexport default function Footer() {\n  return (<footer>\n    This is our footer\n  </footer>)\n}

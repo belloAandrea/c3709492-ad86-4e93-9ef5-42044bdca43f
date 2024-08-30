@@ -1,0 +1,1 @@
+import React from 'react';\n\nexport default function Header() {\n  return (<header>\n    This is our header\n  </header>)\n}

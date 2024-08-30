@@ -1,0 +1,1 @@
+import React from 'react';\n\nexport default function ProjectCreation() {\n  return (<div>\n    Welcome to the Project Creation Page\n  </div>)\n}

@@ -1,0 +1,1 @@
+cd new-app && mkdir -p pages/api components styles

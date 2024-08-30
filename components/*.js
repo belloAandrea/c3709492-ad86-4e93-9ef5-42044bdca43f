@@ -1,0 +1,1 @@
+Implement ARIA roles and properties to improve screen reader accessibility. Enforcing semantic HTML will also auto-include many accessibility features. Add labels to all form elements. Also improve keyboard navigation by ensuring all functionality can be achieved via keyboard alone.
